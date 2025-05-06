@@ -8,19 +8,19 @@ If you are reading this, it means you are interested in my work samples. See the
 
 **_Note:_**  This page is work in progress (WIP).
 
-- To see my developer guide samples, see:
+- **Developer guides**:
   - [Onboarding guide](#link)
   - [Migration guide](#link)
   - [Configuration guide](#link)
   - [README file](#link)
-- To see my user guide sample, see:
+- **User guides**:
   - [guide-1](#link)
   - [guide-1](#link)
-- Product documentation:
+- **Product documents**:
   - [About a Product](#link)
   - [Infrastructure Guide](#link)
-- API Documentation:
+- **API Documents**:
   - [About an API](#link)
-  - [OpenAPI compliant Swagger File](#link)
+  - [OpenAPI Compliant Swagger File](#link)
 
 

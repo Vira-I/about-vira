@@ -9,7 +9,7 @@ If you are reading this, it means you are interested in my work samples. See the
 **_Note:_**  This page is work in progress (WIP).
 
 - **Developer guides**:
-  - [Onboarding guide](#link)
+  - [Onboarding guide](https://github.com/Vira-I/about-vira/wiki/A-sample-page))
   - [Migration guide](#link)
   - [Configuration guide](#link)
   - [README file](#link)

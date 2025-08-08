@@ -8,7 +8,7 @@ To learn more about me, see my [LinkedIn profile](https://www.linkedin.com/in/vi
 
 ## My Work Samples
 
-I work with multiple global companies, most of which keep their documentation private. One of the companies I worked with, however, has its documents publicly available. 
+I work with multiple global companies, most of which keep their documentation private. One company, however, has its documents publicly available. 
 
 See some of the documents I created for them:
 
@@ -17,7 +17,7 @@ See some of the documents I created for them:
 - **A user guide**: [Introduction to Subscription Sales at Arc XP](https://dev.arcxp.com/subscriptions/getting-started/introduction-to-user-subscriptions-at-arc-xpmdx/)
  
   >**Note:**
-   >This user guide is for readers with specific technical and account administration background. Terminology and task complexity here are audience-focused.
+   >This user guide is for readers with a specific technical and account administration background. Terminology and task complexity here are audience-focused.
 
 - **API Documents**:
   - **API service description**: [User-facing APIs for subscription upgrades, downgrades, and renewal adjustments](https://dev.arcxp.com/subscriptions/sales/configure/user-facing-apis-for-subscription-upgrades/).
